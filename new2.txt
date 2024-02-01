@@ -1,2 +1,3 @@
 the file name is new2
 new line ..
+one new line
